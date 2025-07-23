@@ -12,6 +12,8 @@ function Calculutae(x,y,z){
         result = "Invalid Operator"
     }
 
+    console.log("No Change were made");
+
     return result
 }
 
